@@ -9,6 +9,8 @@ I created this tool to simplify WiFi connections without compromising security b
 ## Requirements
 - Required libraries:
   - `qrcode`
+- Optional libraries:
+  - `colorama`
 
 ## Installation
 1. Clone the repository:
